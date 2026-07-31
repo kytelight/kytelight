@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hey, I'm Mo 👋
 
-<!--
-**kytelight/kytelight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **Azure & Power Platform Consultant, .NET Developer**. By day, I'm putting out fires and building enterprise solutions that keep businesses moving. By night, I'm turning ideas into tools, experiments, and side projects.
 
-Here are some ideas to get you started:
+## 🔭 What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Power Platform / Dynamics 365**
+- Dataverse, security, and solution management
+- Power Automate and integrations
+
+**Azure**
+- Functions, Service Bus, and cloud solutions
+- Event-driven architecture
+- Scalable backend services
+
+**Development & Delivery**
+- C#
+- APIs and automation
+- CI/CD and deployment pipelines
+
+## ⚙️ How I work
+
+- **Proactive over reactive** — designing guardrails, improving resilience, and preventing issues rather than just responding to them.
+- **Automation-first** — boring and repeatable things should disappear.
+- **Reusable over one-off** — build things that can grow.
+- **Simple over clever** — maintainable beats complicated.
+
+## 🧪 Outside of work
+
+I'm constantly experimenting and building.
+
+Usually starting with:
+
+> "There has to be a better way to do this."
+
+You'll find projects around:
+
+- Developer tools
+- Automation
+- AI experiments
+- Data utilities
+- Random ideas that became real projects
+
+## 🚧 Currently
+
+Exploring new ideas, learning new technology, and probably building too many things at once.
+
+## 📫 How to reach me
+
+- GitHub: https://github.com/kytelight
+- LinkedIn: https://linkedin.com/in/ayarmohammed
+
+---
+
+**Building solutions at work. Building ideas after hours.**
