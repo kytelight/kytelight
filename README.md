@@ -28,10 +28,10 @@ I'm an **Azure & Power Platform Consultant, .NET Developer**. By day, I'm puttin
 
 ## ⚙️ How I work
 
-- **Proactive over reactive** — designing guardrails, improving resilience, and preventing issues rather than just responding to them.
-- **Automation-first** — boring and repeatable things should disappear.
-- **Reusable over one-off** — build things that can grow.
-- **Simple over clever** — maintainable beats complicated.
+- **Proactive over reactive**: designing guardrails, improving resilience, and preventing issues rather than just responding to them.
+- **Automation-first**: boring and repeatable things should disappear.
+- **Reusable over one-off**: build things that can grow.
+- **Simple over clever**: maintainable beats complicated.
 
 ## 🧪 Outside of work
 
