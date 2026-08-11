@@ -1,6 +1,6 @@
 # Hey, I'm Mo 👋
 
-I'm an **Azure & Power Platform Consultant, .NET Developer**. By day, I'm putting out fires and building enterprise solutions that keep businesses moving. By night, I'm turning ideas into tools, experiments, and side projects.
+I'm an **Azure & Power Platform Consultant, .NET Developer**. By day, I'm putting out fires and building enterprise solutions that keep businesses moving. By night, I'm turning ideas into tools, experiments.
 
 ## 🛠️ Stack
 
@@ -17,12 +17,13 @@ I'm an **Azure & Power Platform Consultant, .NET Developer**. By day, I'm puttin
 - Power Automate and integrations
 
 **Azure**
-- Functions, Service Bus, and cloud solutions
+- Azure Functions, Service Bus, Azure Key Vault
 - Event-driven architecture
 - Scalable backend services
+- Microsoft Entra ID/Auth
 
 **Development & Delivery**
-- C#
+- C#, JS/TS, Python
 - APIs and automation
 - CI/CD and deployment pipelines
 
@@ -57,7 +58,3 @@ Exploring new ideas, learning new technology, and probably building too many thi
 
 - GitHub: https://github.com/kytelight
 - LinkedIn: https://linkedin.com/in/ayarmohammed
-
----
-
-**Building solutions at work. Building ideas after hours.**
